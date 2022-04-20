@@ -1,0 +1,21 @@
+{
+    "STUDENT": {
+        "LIST": "List"
+    },
+    "TABLE": {
+        "NO": "No",
+        "ACTION": "Action"
+    },
+    "LABEL": {
+        "NAME": "Name",
+        "NAME_LATIN": "Name (Latin)",
+        "GENDER": "Gender"
+    },
+    "GENDER": {
+        "M": "Male",
+        "F": "Female"
+    },
+    "GLOBAL": {
+        "SCHEDULE": "កាលវិភាគ"
+    }
+}
